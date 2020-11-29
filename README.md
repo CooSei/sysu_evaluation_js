@@ -1,5 +1,10 @@
 # sysu_evaluation_js
 
-##
- *中山大学自动评教 2020秋季学期
-*鸣谢 :<a href="https://github.com/KumaTea/SYSU-Student-Evaluation">Kumtea</a>提供的思路
+
+## 更新
+
+* 2019秋季学期新版教务评教系统，出现了区分大小写的验证码，出现概率为首次100%及随后约20%。
+* 本次更新加入了检测验证码的机制。
+  * Console出现红字POST无需惊慌
+* 鸣谢：[双鸭山电报小组](https://t.me/sbddy2019)给予我的启发和帮助
+---
