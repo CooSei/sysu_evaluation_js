@@ -28,7 +28,7 @@ for(i in button_list){
 		//验证码
 		captcha = document.getElementsByClassName('ant-input')[7];
 		while(captcha){
-			alert('请输入验证码');
+		    alert('请输入验证码');
 		    captcha.value = ''
 			while(captcha.value.length != 4){
 				await sleep(1000);
