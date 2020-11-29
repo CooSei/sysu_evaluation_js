@@ -7,7 +7,7 @@
 1. [登录教务系统](https://jwxt.sysu.edu.cn/)后，打开[评教页面](https://jwxt.sysu.edu.cn/jwxt/mk/evaluation/#/evaluation)
 2. 打开 [main.js](./main.js)，全选，复制
 3. 切换到[评教页面](https://jwxt.sysu.edu.cn/jwxt/mk/evaluation/#/evaluation)，按F12打开控制台 (Console)，粘贴代码，回车
-
+4. 出现验证码时需要用户自行输入,只输入验证码就好,程序会自动运行,不需要点击提交
 
 ## 免责声明
 * 虽经过测试,但不保证适用所有情况,且作者不承担后果.
