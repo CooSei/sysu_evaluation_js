@@ -1,8 +1,7 @@
-
 function sleep(ms) {
   //休眠
   return new Promise(resolve => setTimeout(resolve, ms));
-};
+}
 button_list = document.getElementsByClassName('ant-btn ant-btn-primary'); //获取所有 button
 
 for(i in button_list){
@@ -29,7 +28,7 @@ for(i in button_list){
 		captcha = document.getElementsByClassName('ant-input')[7];
 		while(captcha){
 		    alert('请输入验证码');
-		    captcha.value = ''
+		    captcha.value = '';
 			while(captcha.value.length != 4){
 				await sleep(1000);
 			}
