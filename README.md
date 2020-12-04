@@ -4,7 +4,7 @@
 
 ## 使用方法
 1. 打开[min_eva.js](./min_eva.js),复制
-2. 进入[评教页面](https://jwxt.sysu.edu.cn/jwxt/mk/evaluation/#/evaluation)，按F12打开调试界面，如下图顺序点击(./process.png),然后点击控制台(console),粘贴代码，回车
+2. 进入[评教页面](https://jwxt.sysu.edu.cn/jwxt/mk/evaluation/#/evaluation)，按F12打开调试界面，如[下图](./process.png)顺序点击,然后点击控制台(console),粘贴代码，回车
 出现红字无需惊慌
 3. 出现验证码时需要用户自行输入,只输入验证码就好,程序会自动运行,不需要点击提交
 
