@@ -36,4 +36,4 @@ async function eva(){
 		flag = document.getElementsByTagName('button');
 		}
 	}
-
+eva();
